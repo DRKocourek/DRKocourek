@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DRKocourek / @somedoctorcat
 - Programming is my big hobby!
-- 🌱 I’m currently learning C++ 👀
+- 🌱 I’m currently learning C++ and x86 Assembly 👀
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Meow :3
 - https://drkocourek.stream/
